@@ -6,4 +6,4 @@ The "pure-ndk" part of https://github.com/anoek/android-cairo , intended to be u
 To compile, just run the following from the cairo-for-android directory:
 "[path-to-NDK]\ndk-build"
 
-The obj\local\armeabi folder will contain "libcairo-android.so"
+The libs\armeabi folder will contain "libcairo-android.so"
